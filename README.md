@@ -3,7 +3,7 @@
 ## Mohammadreza Tatlari 
 <img src="./wave.gif" width="30px" height="30px" />
 
-_once someone asked:_
+_once asked:_
 <br>
 
 _**"Oh holiness, what is the single most important thing to do?"**_
@@ -12,7 +12,7 @@ _**"Oh holiness, what is the single most important thing to do?"**_
 _and the answer was:_
 <br>
 
- _*** "routine! next question..." ***_
+ ***"routine! next question..."***
 
 Front-End Developer mostly working on small projects.
 currently, Studying Bachelor of Software Engineering in Iran
