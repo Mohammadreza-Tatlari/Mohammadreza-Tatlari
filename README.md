@@ -1,16 +1,18 @@
-### Hi there 👋
+![orca .](/orca.png)
 
-<!--
-**Mohammadreza-Tatlari/Mohammadreza-Tatlari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mohammadreza Tatlari 
+<img src="./wave.gif" width="30px" height="30px" />
 
-Here are some ideas to get you started:
+_once someone asked:_
+_"Oh holiness, what is the single most important thing I can do?"_
+_and the answer was:_
+ _**"routine! next question..."**_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End Developer mostly working on small projects.
+currently, Studying Bachelor of Software Engineering in Iran
+
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,react,nextjs,prisma,mongodb,debian)](https://skillicons.dev)
+
+
+
+
