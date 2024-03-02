@@ -12,10 +12,10 @@ _**"Oh holiness, what is the single most important thing to do?"**_
 _and the answer was:_
 <br>
 
- ***"routine! next question..."***
+ ***"Routine! next question..."***
 
-Front-End Developer mostly working on small projects.
-currently, Studying Bachelor of Software Engineering in Iran
+A Front-End Developer who mostly works on small projects.
+currently, Studying for a Bachelor of Software Engineering in Iran
 
 [![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,react,nextjs,prisma,mongodb,debian)](https://skillicons.dev)
 
