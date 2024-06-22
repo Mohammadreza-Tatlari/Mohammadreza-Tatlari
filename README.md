@@ -6,7 +6,7 @@
 _once asked:_
 <br>
 
-_**"Oh holiness, what is the single most important thing to do?"**_
+_**"What is the single most important thing to do?"**_
 <br>
 
 _and the answer was:_
