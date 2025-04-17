@@ -14,10 +14,9 @@ _and the answer was:_
 
  ***"Routine! next question..."***
 
-A Front-End Developer who mostly works on small projects.
-currently, Studying for a Bachelor of Software Engineering in Iran
+Junior DevOps Engineer currently working on Virtualization in TebyanIDC besides Studying for a Bachelor of Software Engineering in Iran.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,react,nextjs,prisma,mongodb,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,nextjs,prisma,mongodb,debian,py)](https://skillicons.dev)
 
 
 
